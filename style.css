@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #89CFF0;
+}
+
+.videonamo {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    object-fit: cover;
+}
+
+.amor {
+    font-family: proxima-nova, sans-serif;
+    padding: 40px;
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 1px solid #89CFF0;
+}
+
+.namorada {
+    font-family: proxima-nova, sans-serif;
+    padding: 50px;
+    justify-content: initial;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.459);
+}
+
+p {
+    color: white;
+    font-size: 17px;
+    font-family: proxima-nova, sans-serif;
+    padding-bottom: 10px;
+}
+
+.guria {
+    width: 50%;
+}
+
+h2 {
+    font-size: 33px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.minhaguria {
+    justify-content: initial;
+    margin-left: 3%;
+    width: 50%;
+}
+
+.Depara{
+    padding: 20px 20px 20px 50px;
+    border-top: 1px solid #89CFF0;
+}
+
+em{
+    color: #FFFCC9;
+}
+
